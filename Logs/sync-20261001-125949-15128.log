@@ -1,4 +1,0 @@
-2026-10-01 12:59:49 [INFO] Start. Execute=False, SkipQuery=True, NoPush=False
-2026-10-01 12:59:56 [WARN] SkipQuery: vorhandene CSV wird bewusst wiederverwendet.
-2026-10-01 12:59:56 [INFO] 1 eindeutige Quellmember in der CSV.
-2026-10-01 12:59:57 [ERROR] Pfadschreibung weicht von Git ab: 'TVRELWAECO/QRPGLESRC/AKTIVBANKR.sqlrpgle' / 'TVRELWAECO/QRPGLESRC/AKTIVBANKR.SQLRPGLE'. CSV/Exportpfad angleichen.

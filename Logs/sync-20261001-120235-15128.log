@@ -1,3 +1,0 @@
-2026-10-01 12:02:35 [INFO] Start. Execute=False, SkipQuery=True, NoPush=False
-2026-10-01 12:02:43 [WARN] SkipQuery: vorhandene CSV wird bewusst wiederverwendet.
-2026-10-01 12:02:43 [ERROR] CSV ist leer. Die Abfrage muss auch ohne Treffer mindestens die Kopfzeile schreiben.

@@ -1,3 +1,0 @@
-2026-10-01 12:50:22 [INFO] Start. Execute=False, SkipQuery=True, NoPush=False
-2026-10-01 12:50:29 [WARN] SkipQuery: vorhandene CSV wird bewusst wiederverwendet.
-2026-10-01 12:50:29 [ERROR] IfsRoot muss ein absoluter IFS-Pfad ohne Leerzeichen oder .. sein.

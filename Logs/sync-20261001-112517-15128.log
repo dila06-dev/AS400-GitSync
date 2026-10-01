@@ -1,3 +1,0 @@
-2026-10-01 11:25:17 [INFO] Start. Execute=False, SkipQuery=True, NoPush=False
-2026-10-01 11:25:25 [WARN] SkipQuery: vorhandene CSV wird bewusst wiederverwendet.
-2026-10-01 11:25:25 [ERROR] Exception calling "ReadAllText" with "2" argument(s): "Could not find file 'D:\AS400\AS400-GitSync\SRC_MEMBER_LAST_CHANGE_1DAY.csv'."
