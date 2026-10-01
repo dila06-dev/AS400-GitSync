@@ -13,9 +13,9 @@
 
     IfsRoot            = '/home/langlitz/AS400'
     # Windows-Zugriff auf GENAU IfsRoot (NetServer-Laufwerk oder UNC-Freigabe).
-    IfsWindowsRoot     = 'F:\AS400'
+    IfsWindowsRoot     = '\\S105DD7A.dometic.internal\home\LANGLITZ\AS400'
     # Falls lokaler Clone: z.B. D:\Git\AS400; Dateien werden dann kopiert.
-    RepoPath           = 'F:\AS400'
+    RepoPath           = '\\S105DD7A.dometic.internal\home\LANGLITZ\AS400'
     Remote             = 'origin'
     Branch             = 'main'
     GitExe             = 'git.exe'

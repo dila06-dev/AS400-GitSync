@@ -3,7 +3,7 @@
 # =========================
 $ApiUrl      = "http://localhost:8085/api/services/SRC_MEMBER_LAST_CHANGE_1DAY"
 $BearerToken = "a1CLZIUkn2mqNzuM5IpCRR4mwnRYfTUkGCALnAuR247e7d45"
-$CsvPath     = "D:\NET_INFO\analyse\SRC_MEMBER_LAST_CHANGE_1DAY.csv"
+$CsvPath     = "D:\AS400\AS400-GitSync\SRC_MEMBER_LAST_CHANGE_1DAY.csv"
 $Delimiter   = ";"   # Für deutsches Excel meist besser ";", sonst "," verwenden
 $TimestampFormat = "yyyy-MM-dd HH:mm:ss"
 
@@ -57,7 +57,7 @@ try {
         -Uri $ApiUrl `
         -Method Get `
         -Headers $Headers `
-        -TimeoutSec $RequestTimeoutSec ` 
+        -TimeoutSec $RequestTimeoutSec `
         -ErrorAction Stop
 
     if ($Response -is [System.Array]) {
